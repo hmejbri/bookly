@@ -8,7 +8,7 @@ export default class MyDocument extends Document {
     return (
       <Html lang="en">
         <Head>
-          <script data-ad-client="ca-pub-6752061057745278" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+          <script data-ad-client="ca-pub-7992790002155434" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
           {/* PWA primary color */}
           <meta name="theme-color" /* content={theme.palette.primary.main} */ />
           <link
